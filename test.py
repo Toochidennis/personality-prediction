@@ -1,7 +1,6 @@
 import os
 import joblib
 import streamlit as st
-from sklearn import metrics
 import time
 import nltk
 nltk.download('stopwords')
